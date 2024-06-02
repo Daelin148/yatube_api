@@ -121,10 +121,10 @@ GET /api/v1/follow/
 Ответ:
 ```
 [
-{
-    "user": "string",
-    "following": "string"
-}
+    {
+        "user": "string",
+        "following": "string"
+    }
 ]
 ```
 
